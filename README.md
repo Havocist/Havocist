@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Havocist
 - 👀 I’m interested in Videogames
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on valentines day
+- 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me @havocist on every social media(except for twitter)
 
 <!---
